@@ -1,0 +1,13 @@
+nav {
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: green;
+  gap: 2;
+}
+nav Nav.Link {
+  font-size: 28px;
+  color: green;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  margin: 10px;
+}/*# sourceMappingURL=Layout.css.map */
